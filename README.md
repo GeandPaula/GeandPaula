@@ -1,8 +1,6 @@
 
 # Sobre mim
 
-![Alt Text](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
-
 # Olá, Meu nome é Gean Carlos, é um prazer conhece-lo(a)!!! 👋                                
 
  ## Gostaria de conhecer meu perfil? 
