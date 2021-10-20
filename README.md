@@ -5,7 +5,7 @@
 
  ## Gostaria de conhecer meu perfil 🧔🏽? 
 
- Sou um profissional dinâmico, com elevada facilidade para trabalhar em grupo, engajado e curioso. Expresso-me de forma objetiva, transparente e construtiva. Identifico-me com análise, melhoria e otimização de processos. Possuo conhecimentos no mapeamento de processos; metodologia DMAIC, elaboração de relatórios, KPI’s e metodologias ágeis. Atualmente cursando o último período do curso de engenharia química em concomitância com o curso de gestão da qualidade.
+ Sou um profissional dinâmico, com elevada facilidade para trabalhar em grupo, engajado e curioso. Expresso-me de forma objetiva, transparente e construtiva. Atuo com análise, melhoria e otimização de processos. Possuo conhecimentos no mapeamento de processos; metodologia DMAIC, elaboração de relatórios, KPI’s e metodologias ágeis. Atualmente cursando o último período do curso de engenharia química em concomitância com o curso de gestão da qualidade. 
 
  ## Formação acadêmica 🎓
 
@@ -28,9 +28,7 @@ _______________________________________________________________________
 
 ## Licenças e certificados 📑
 
-Scrum Fundamentals Certified (SFC) - SCRUMstudy - Accreditation Body for Scrum and Agile
-
-✅ SCRUMstudy - Accreditation Body for Scrum and Agile
+✅Scrum Fundamentals Certified (SFC) - SCRUMstudy - Accreditation Body for Scrum and Agile
 
 ✅ Black Belt - Lean Six Sigma  - Grupo Voitto
 
