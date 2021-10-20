@@ -56,3 +56,5 @@ Gostou do meu perfil? Quer saber mais? Entre em contando comigo. Será um enorme
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeandPaula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Alt Text](https://media.giphy.com/media/TKAfGM3dUFpaLx8M9E/giphy.gif)
+
