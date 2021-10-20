@@ -1,9 +1,11 @@
 
 # Sobre mim
 
-# Olá, Meu nome é Gean Carlos, é um prazer conhece-lo(a)!!! 👋
+![Alt Text](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
 
- ## Gostaria de conhecer meu perfil 🧔🏽? 
+# Olá, Meu nome é Gean Carlos, é um prazer conhece-lo(a)!!! 👋                                
+
+ ## Gostaria de conhecer meu perfil? 
 
  Sou um profissional dinâmico, com elevada facilidade para trabalhar em grupo, engajado e curioso. Expresso-me de forma objetiva, transparente e construtiva. Atuo com análise, melhoria e otimização de processos. Possuo conhecimentos no mapeamento de processos; metodologia DMAIC, elaboração de relatórios, KPI’s e metodologias ágeis. Atualmente cursando o último período do curso de engenharia química em concomitância com o curso de gestão da qualidade. 
 
